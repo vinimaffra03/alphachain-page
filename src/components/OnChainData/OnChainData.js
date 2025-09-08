@@ -21,7 +21,7 @@ function OnChainData() {
             <p
               className="text-black bg-white text-muted mx-4"
               style={{
-                borderRadius: 20,
+                borderRadius: 10,
                 fontWeight: 400,
                 padding: 10,
               }}
@@ -32,7 +32,7 @@ function OnChainData() {
             <p
               className="text-black bg-white text-muted mx-4"
               style={{
-                borderRadius: 20,
+                borderRadius: 10,
                 fontWeight: 400,
                 padding: 10,
               }}
@@ -43,7 +43,7 @@ function OnChainData() {
             <p
               className="text-black bg-white text-muted mx-4"
               style={{
-                borderRadius: 20,
+                borderRadius: 10,
                 fontWeight: 400,
                 padding: 10,
               }}
@@ -55,7 +55,7 @@ function OnChainData() {
             <p
               className="text-black bg-white text-muted mx-4"
               style={{
-                borderRadius: 20,
+                borderRadius: 10,
                 fontWeight: 400,
                 padding: 10,
               }}
