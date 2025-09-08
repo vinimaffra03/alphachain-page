@@ -4,7 +4,7 @@ function OnChainData() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/global")
+    fetch("https://vinimafrfra.pythonanywhere.com/api/global")
       .then((res) => res.json())
       .then((json) => setData(json.data))
       .catch((err) => console.error(err));
