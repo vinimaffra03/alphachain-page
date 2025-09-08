@@ -1,0 +1,49 @@
+#usuarios-ativos {
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+#p-comunidade {
+  font-weight: 400;
+}
+
+.hero-section {
+  background-color: #fdf8f3;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.stats-number {
+  color: #fd7e14;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.btn-primary-custom {
+  background-color: #fd7e14;
+  border-color: #fd7e14;
+  padding: 12px 30px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.btn-primary-custom:hover {
+  background-color: #e8690b;
+  border-color: #e8690b;
+}
+
+.btn-outline-custom {
+  color: #6c757d;
+  border-color: #dee2e6;
+  padding: 12px 30px;
+  font-weight: 500;
+}
+
+.btn-outline-custom:hover {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: white;
+}
