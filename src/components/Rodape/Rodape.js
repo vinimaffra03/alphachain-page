@@ -16,7 +16,7 @@ function Rodape() {
           </p>
 
           <p
-            className="mb-5 mx-auto"
+            className="mb-2 mx-auto"
             style={{
               maxWidth: "700px",
               fontSize: "0.19em",
@@ -25,7 +25,26 @@ function Rodape() {
           >
             Trading inteligente para resultados extraordinários
           </p>
+
+          <div className="my-2">
+            <button class="btn btn-outline-custom btn-md px-2 py-1 mx-2">
+              <i class="bi bi-instagram"></i>
+            </button>
+
+            <button class="btn btn-outline-custom btn-md px-2 py-1 mx-2">
+              <i class="bi bi-envelope"></i>
+            </button>
+
+            <button class="btn btn-outline-custom btn-md px-2 py-1 mx-2">
+              <i class="bi bi-whatsapp"></i>
+            </button>
+
+            <button class="btn btn-outline-custom btn-md px-2 py-1 mx-2">
+              <i class="bi bi-youtube"></i>
+            </button>
+          </div>
         </div>
+
         <p
           className="mb-2 mx-auto py-0"
           style={{
